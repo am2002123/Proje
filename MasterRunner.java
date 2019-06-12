@@ -58,5 +58,6 @@ public class RunnerPerf implements Interfacejava{
 
 	}
 // I (Annie) did the perfect square and if the square root of  the number was an whole number I made the method return true
+// I (Annie) learned how to use GitKraken and Github to work on code with other people more effiecently 
 // I (Malaika) did the quotient method which finds the quotient of two floats to 3 decimal places.
 // I(Malaika) learned how GitHub and GitKraken make it possible for people to collaborate on code by creating branches allowing you to make changes and then merge to the master runner.  
